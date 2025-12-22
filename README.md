@@ -2,8 +2,9 @@
 - 👀 Eu penso em me tornar um bom programador
 - 🌱 Atualmente estou Pesquisando e tentando entender mais sobre algumas coisas..
 - 📫 Quando entender mais sobre o GitHub deixarei um contato...
-- 😄 Sei C++ e Entendo Pouco de Vba No Excel, "Vba Ia copilot" me ajuda muito
+- 😄 Entendo Pouco de Vba No Excel, "Vba Ia copilot" me ajuda muito
 - ⚡ Gosto muito de Robotica, eletronica e tecnologias afins..
+- 👨‍🎓 começei a estudar TI para internet, "Hello HTML, CSS e JAVA"
 
 <!---
 umdia-sereidev/umdia-sereidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
