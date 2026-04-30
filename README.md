@@ -1,4 +1,4 @@
-#  Rafael Vincitore
+#  Rafael Gustavo
 
 <p align="center">
   <strong>Desenvolvedor em formação | Engenharia de Software | TI | Automação e Web</strong>
@@ -8,11 +8,11 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software focado em construir soluções práticas e evoluir continuamente na área de tecnologia.
+Sou estudante de Engenharia de Software e TI para a internet focado em construir soluções práticas e evoluir continuamente na área de tecnologia.
 
-Tenho experiência com automação de processos utilizando VBA, criando soluções eficientes para tarefas repetitivas. Atualmente, estou expandindo meus conhecimentos em desenvolvimento web, com foco em aplicações funcionais e bem estruturadas.
+Tenho experiência com automação de processos utilizando VBA, criando soluções eficientes para tarefas repetitivas. Atualmente, estou expandindo meus conhecimentos em desenvolvimento web, com foco em aplicações funcionais e bem estruturadas.Além de praticas em TI como manutenções, configurações e noção em eletrônica.
 
-Busco desenvolver uma base sólida em programação, boas práticas e resolução de problemas reais.
+Busco desenvolver uma base sólida em programação, Banco de dados, boas práticas e resolução de problemas reais.
 
 ---
 
@@ -31,26 +31,12 @@ Busco desenvolver uma base sólida em programação, boas práticas e resoluçã
 ---
 
 ## 📌 Foco atual
-
+  
 - 🌐 Desenvolvimento Web
 - ⚙️ Automação de processos
 - 🧩 Lógica e estrutura de código
 - 📚 Evolução contínua em Engenharia de Software
-
----
-
-## 📂 Projetos em destaque
-
-> Em desenvolvimento — em breve projetos reais aplicados
-
----
-
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
+- 🖥️ TI com direcionamento em desenvolvimento Web
 
 ---
 
@@ -58,12 +44,6 @@ Busco desenvolver uma base sólida em programação, boas práticas e resoluçã
 
 <p align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafael-gustavo-in)
 
-</p>
-
----
-
-<p align="center">
-  ⭐ Construindo evolução todos os dias
 </p>
